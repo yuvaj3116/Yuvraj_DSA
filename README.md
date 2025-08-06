@@ -2,7 +2,7 @@ Welcome to my Data Structures & Algorithms (DSA) learning and practice repositor
 
 🧠 Why This Repository?
 
-I started my DSA journey on [enter start date here, e.g., 30th July 2025], and this repository serves as:
+I started my DSA journey on [28th July 2025], and this repository serves as:
 
 📚 A record of my daily/weekly learning.
 
